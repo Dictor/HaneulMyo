@@ -14,7 +14,7 @@
 * source : 이 프로젝트의 메인 코드
   + CCLoader : CCLoader 사용시 아두이노에 다운로드 해야하는 소스
   + complete_variouspose : 메인 프로그램 소스 (가장 초기 소스, 다양한 동작 구현되어 있음)
-  + complete_toggle : 메인 프로그램 소스 (2번째 소스, 주먹 쥐었다 피기가 계속 유지가 아니라 전환시에만 특정 동작 시행)
+  + complete_toggle : 메인 프로그램 소스 (2번째 소스, 주먹 쥐었다 기가 계속 유지가 아니라 전환시에만 특정 동작 시행)
     
 * tools : 제작에 필요한 여러가지 도구들
   + CCLoader : CCLoader 사용시 PC에서 실행시켜야 하는 프로그램
