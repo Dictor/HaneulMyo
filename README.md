@@ -16,4 +16,4 @@
   + complete : 메인 프로그램 소스
 * tools : 제작에 필요한 여러가지 도구들
   + CCLoader : CCLoader 사용시 PC에서 실행시켜야 하는 프로그램
-  + SerialPortMon : 시리얼 터미널 프
+  + SerialPortMon : 시리얼 터미널 
