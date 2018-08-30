@@ -55,19 +55,19 @@ void poseCallback(MyoPoseData& data) {
   //if (&poststr != NULL) Serial1.println(poststr);
   Serial1.println(altPosttoString(pose));
   switch(pose){
-    case 0:
+    case 0: //MYO_POSE_REST
       LmPoseSet(LM_POSE_RELEASE);
       break;
-    case 1:
+    case 1: //MYO_POSE_FIST
       LmPoseSet(LM_POSE_GRAB);
       break;
-    case 2:
+    case 2: //MYO_POSE_WAVE_IN
       LmPoseSet(LM_POSE_OK);
       break;
-    case 3:
+    case 3: //MYO_POSE_WAVE_OUT
       LmPoseSet(LM_POSE_GOOD);
       break;
-    case 4:
+    case 4: //MYO_POSE_FINGERS_SPREAD
       LmPoseSet(LM_POSE_FUCK);
       break;
   }
