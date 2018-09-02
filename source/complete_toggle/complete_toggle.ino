@@ -13,8 +13,8 @@
 #define LM_POSE_GOOD 2
 #define LM_POSE_OK 3
 
-#define GREEN_LED 6
-#define RED_LED 5
+#define GREEN_LED 5
+#define RED_LED 6
 #define sLED_BLINKDURATION 700
 #define sLED_OFF 0
 #define sLED_ON 1
